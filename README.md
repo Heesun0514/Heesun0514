@@ -74,7 +74,7 @@ I am open to **Cloud Operations, IT Support, or Trust & Safety roles with a tech
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/huiseon-yi-7928231b7)
 - 📧 [heesun0514@gmail.com](mailto:heesun0514@gmail.com)
-- 🌐 [GitHub Portfolio](https://github.com/Heesun0514)
+- 🌐 [GitHub Portfolio](https://github.com/Heesun0514/ADVANCED-PROGRAMMING)
 
 Fluent in **English** and **Korean** (native).
 
@@ -90,7 +90,7 @@ Fluent in **English** and **Korean** (native).
 
 ## 📊 GitHub Stats
 
-![Heesun0514's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heesun0514&show_icons=true&theme=default)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heesun0514&theme=default&hide_border=true)](https://github.com/Heesun0514)
 ---
 
 *Thanks for visiting! I'm actively learning and building — feedback and connections are always welcome.*
