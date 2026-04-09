@@ -74,7 +74,7 @@ I am open to **Cloud Operations, IT Support, or Trust & Safety roles with a tech
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/huiseon-yi-7928231b7)
 - 📧 [heesun0514@gmail.com](mailto:heesun0514@gmail.com)
-- 🌐 [GitHub Portfolio](https://github.com/Heesun0514/ADVANCED-PROGRAMMING)
+- 🌐 [GitHub Portfolio](https://github.com/Heesun0514)
 
 Fluent in **English** and **Korean** (native).
 
@@ -84,13 +84,14 @@ Fluent in **English** and **Korean** (native).
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-
+| [Kidventory](https://github.com/Heesun0514/Kidventory) | Child wardrobe & size tracking system | CSS, JavaScript |
+| [ADVANCED-PROGRAMMING](https://github.com/Heesun0514/ADVANCED-PROGRAMMING) | Bilingual (English/Korean) study notes for JavaScript core concepts: fundamentals, DOM API, arrays, events, async patterns, and network programming | HTML, JavaScript |
 
 ---
 
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heesun0514&theme=default&hide_border=true)](https://github.com/Heesun0514)
----
+
 
 *Thanks for visiting! I'm actively learning and building — feedback and connections are always welcome.*
