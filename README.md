@@ -72,9 +72,9 @@ This rare combination makes me effective in roles that require both **technical 
 
 I am open to **Cloud Operations, IT Support, or Trust & Safety roles with a technical edge** in Dublin.
 
-- 🔗 [LinkedIn](www.linkedin.com/in/huiseon-yi-7928231b7)
-- 📧 [heesun0514@gmail.com)
-- 🌐 [Portfolio]( https://github.com/Heesun0514 )
+- 🔗 [LinkedIn](https://www.linkedin.com/in/huiseon-yi-7928231b7)
+- 📧 [heesun0514@gmail.com](mailto:heesun0514@gmail.com)
+- 🌐 [GitHub Portfolio](https://github.com/Heesun0514)
 
 Fluent in **English** and **Korean** (native).
 
