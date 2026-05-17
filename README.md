@@ -84,9 +84,7 @@ Fluent in **English** and **Korean** (native).
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Kidventory](https://github.com/Heesun0514/Kidventory) | Child wardrobe & size tracking system | CSS, JavaScript |
-| [ADVANCED-PROGRAMMING](https://github.com/Heesun0514/ADVANCED-PROGRAMMING) | Bilingual (English/Korean) study notes for JavaScript core concepts: fundamentals, DOM API, arrays, events, async patterns, and network programming | HTML, JavaScript |
-
+| [Daycare Digital Logbook](https://github.com/Heesun0514/Daycare-Digital-Logbook) | Full-stack attendance management system for daycare centres. Features include CRUD operations, auto-generated parent emails, one-click check-in/out, CSV report download, parent view, and CI/CD pipeline with GitHub Actions. | Node.js, Express, SQLite, HTML, CSS, JavaScript, Jest, Supertest, GitHub Actions |
 ---
 
 ## 📊 GitHub Stats
