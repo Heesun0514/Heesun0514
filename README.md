@@ -62,7 +62,7 @@ The technical rigor of a developer, the analytical, policy-driven mindset of a T
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Daycare Digital Logbook — AWS Cloud Migration](https://github.com/Heesun0514/Daycare-Digital-Logbook-AWS-Cloud-Migration)** | Full-stack attendance and ECCE compliance system for Irish daycare centres. Migrated the database from SQLite to AWS RDS PostgreSQL, added Cognito authentication with Teacher/Director role-based access, deployed the frontend to S3 + CloudFront, and containerized the backend with Docker (image published to ECR). Includes a documented post-mortem of a VPC timeout encountered during the first deployment attempt. | Node.js, Express, PostgreSQL, AWS (RDS, Cognito, S3, CloudFront, ECR), Docker, Sequelize, Jest, GitHub Actions |
-| **[Daycare Digital Logbook (original CA)](https://github.com/Heesun0514/Daycare-Digital-Logbook)** | Original academic version with SQLite, requirements engineering, use case modelling, and 20 Jest tests. Served as the foundation for the AWS migration. | Node.js, Express, SQLite, Jest, Supertest, GitHub Actions |
+| **[Daycare Digital Logbook ](https://github.com/Heesun0514/Daycare-Digital-Logbook)** | Original academic version with SQLite, requirements engineering, use case modelling, and 20 Jest tests. Served as the foundation for the AWS migration. | Node.js, Express, SQLite, Jest, Supertest, GitHub Actions |
 
 ## 📊 GitHub Stats
 
@@ -70,7 +70,7 @@ The technical rigor of a developer, the analytical, policy-driven mindset of a T
 
 ## 📫 Let's Connect
 
-I'm open to **Cloud Support, Cloud Operations, IT Support, or junior DevOps roles** in Dublin, London, or remote EU.
+I'm open to **Cloud Support, Cloud Operations, IT Support, or junior DevOps roles** in Dublin or remote EU.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/huiseon-yi-7928231b7/) · 📧 heesun0514@gmail.com · 🌐 [GitHub Portfolio](https://github.com/Heesun0514) · 🎥 [Demo Video](https://youtu.be/HPqIhpVkfnQ)
 
