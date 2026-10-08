@@ -72,7 +72,7 @@ The technical rigor of a developer, the analytical, policy-driven mindset of a T
 
 I'm open to **Cloud Support, Cloud Operations, IT Support, or junior DevOps roles** in Dublin or remote EU.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/huiseon-yi-7928231b7/) · 📧 heesun0514@gmail.com · 🌐 [GitHub Portfolio](https://github.com/Heesun0514) · 🎥 [Demo Video](https://youtu.be/HPqIhpVkfnQ)
+🔗 [LinkedIn](https://www.linkedin.com/in/huiseon-yi/) · 📧 heesun0514@gmail.com · 🌐 [GitHub Portfolio](https://github.com/Heesun0514) · 🎥 [Demo Video](https://youtu.be/HPqIhpVkfnQ)
 
 Fluent in English and Korean (native).
 
